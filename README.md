@@ -19,7 +19,7 @@
 </div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="left">
-    <img width="350" src="http://github-readme-streak-stats.herokuapp.com?username=ctrhyz&theme=dark" alt="Streak Stats"/>
+    <img width="350" src="http://github-readme-streak-stats.herokuapp.com?user=ctrhyz&theme=dark" alt="Streak Stats"/>
 </div>
 <div align="center">
     &nbsp;<p><br>Nah, I'm Do My Own Things</p>
