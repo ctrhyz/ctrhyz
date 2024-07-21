@@ -24,6 +24,9 @@
 <div align="center">
     &nbsp;<p><br>Nah, I'm Do My Own Things</p>
 </div>
+<br>
+<img src="https://github.com/ctrhyz/ctrhyz/blob/main/contributions.svg"/>
+<br>
 <div align="center">
     &nbsp;<strong><br>Z X H<br>※<br>俺 わ 誰</strong>
 </div>
